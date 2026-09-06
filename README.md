@@ -1,23 +1,12 @@
 # 👋 Hi, I'm Huy
 
 ## 🧠 About Me
-- 🎯 Business Analyst
 - 🛡️ Background: Security / Pentest
 - 💻 Interested in Product, Security Research & System Analysis
 
 ---
 
 #  My Exprerience
-
-## 🔹 E-invoice System BA
-📌 Business Analysis cho hệ thống e-invoice
-📊 Flow: Order → Payment → Invoice  
-🧠 Focus:
-- Requirement Analysis
-- BPMN / Flow Design
-- User Story
-- Testing Manual & API 
-
 ## Security Searcher 
 ---
 
