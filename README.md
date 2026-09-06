@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Huy
 
-## 🧠 About Me
-- 🛡️ Background: Security / Pentest
-- 💻 Interested in Product, Security Research & System Analysis
+## About Me
+- Background: Security / Pentest
+- Interested in Product, Security Research & System Analysis
 
 ---
 
@@ -10,13 +10,13 @@
 ## Security Searcher 
 ---
 
-# 🚀 My Projects
+# My Projects
 
 ## 🔹 Pentester
 
-### 👾 CBJS Report Pentester
-📌 Whitebox Pentest Report cho ứng dụng Memejutsu  
-🔍 Bao gồm:
+### CBJS Report Pentester
+Whitebox Pentest Report cho ứng dụng Memejutsu  
+Bao gồm:
 - Vulnerability Assessment
 - File Upload Testing
 - XSS / SQLi Analysis
@@ -26,10 +26,10 @@
 
 ---
 
-### 🛡️ CTF Writeups
-📌 Repository tổng hợp writeup, walkthrough và security research trong quá trình học tập và làm lab.
+### CTF Writeups
+Repository tổng hợp writeup, walkthrough và security research trong quá trình học tập và làm lab.
 
-🧠 Topics:
+Topics:
 - XSS
 - SQL Injection
 - SSRF
@@ -39,16 +39,16 @@
 
 ---
 
-## 🔹 ELK + Suricata Monitoring - Final Project in University
-📌 Research & implementation of Network Intrusion Detection System using ELK Stack
+## ELK + Suricata Monitoring - Final Project in University
+Research & implementation of Network Intrusion Detection System using ELK Stack
 
-🛠 Stack:
+Stack:
 - Suricata
 - Elasticsearch
 - Kibana
 - Logstash
 
-⚔️ Attack Scenarios (Red Team):
+Attack Scenarios (Red Team):
 
 - SQL Injection — automated exploitation using SQLMap
 - Brute Force — custom Python script targeting authentication endpoints
