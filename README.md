@@ -32,7 +32,6 @@ Repository tổng hợp writeup, walkthrough và security research trong quá tr
 Topics:
 - XSS
 - SQL Injection
-- SSRF
 - File Upload Bypass
 
 👉 [View Project](./projects/writeup-ctf/)
